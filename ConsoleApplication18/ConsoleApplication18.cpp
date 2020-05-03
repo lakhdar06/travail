@@ -12,4 +12,5 @@ int main() {
         std::cout << liste.front() << std::endl;
         liste.pop_front();
     }
+	std::count>>"bonjour";
 }
